@@ -1,8 +1,8 @@
 Hi 🙋‍♀️. I'm Keerthana Jayabalan.
 
-I am working as Softwsre Test Analyst.
+I am working as Software Test Analyst.
 
-Skills: Selenium, Core Java, Postman, Git, Jenkins, Cucumber, TestNG
+Skills: Selenium, Core Java, Cucumber, TestNG, Postman, Git, Jenkins
 
 
 
