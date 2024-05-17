@@ -6,15 +6,15 @@
 ### 🚀 Committed to delivering robust and efficient test automation solutions
 
 ### ⚙️ Technical Skills:
-Languages: Core Java
-Frameworks: Selenium, TestNG, Cucumber, Rest Assured
-Build Tools: Maven
-Version control system: Git, GitHub
-CI/CD: Jenkins
-DBMS: SQL
-Utility tools used: Beyond Compare, Micorsoft Office
-Defect management tool: JIRA
-Documentation: Confluence
+* Languages: Core Java
+* Frameworks: Selenium, TestNG, Cucumber, Rest Assured
+* Build Tools: Maven
+* Version control system: Git, GitHub
+* CI/CD: Jenkins
+* DBMS: SQL
+* Utility tools used: Beyond Compare, Micorsoft Office
+* Defect management tool: JIRA
+* Documentation: Confluence
 
 
 
